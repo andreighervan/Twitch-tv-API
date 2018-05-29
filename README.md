@@ -1,4 +1,4 @@
-# Twitch.tv_API
+# Twitch TV API
 Twitch.tv API example to get information for specific channels
 
 How it works
